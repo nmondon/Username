@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas Mondon, software engineer and data journalist based in Paris
 
-I love data and I'm using mostly Typescript and Python for my projects, here is a short selection:
+## I love data and I'm using mostly Typescript and Python for my projects, here is a short selection:
 
 + [Quelles études ont fait nos ministres ?](https://www.lefigaro.fr/fig-data/etudes-gouvernement/)
 + [Qui pourraient être les 5 eurodéputés «réservistes» ?](https://www.lefigaro.fr/fig-data/eurodeputes-reservistes/)
@@ -10,3 +10,9 @@ I love data and I'm using mostly Typescript and Python for my projects, here is 
 + [Ces Européens qui siègent dans nos mairies](https://www.lefigaro.fr/fig-data/europeens-elus-en-france/)
 + [Qui sont les barons locaux de votre département ?](https://www.lefigaro.fr/fig-data/longevite-maires/)
 + [De l’élégance noire à l’audace du néon : quand les couleurs racontent la mode](https://www.lefigaro.fr/fig-data/couleur-defiles/)
+
+## I'm also doing OSS, here are some of my projects : 
+
++ [kohonen](https://github.com/seracio/kohonen): a JS implementation of the SOM algorithm
++ [fulgur](https://github.com/seracio/fulgur): A declarative vis library in React
++ [plugnplay](https://github.com/seracio/plugnplay): A store for React in RxJS
