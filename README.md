@@ -1,13 +1,16 @@
 # Hi, I'm Nicolas Mondon, software engineer and data journalist based in Paris
 
-I'm mostly doing quantitative analysis in politics and sport.  
+I'm mostly doing quantitative analysis in politics 👸 and sport ⚽️.  
 For this, I use lots of:
 
-+ Python & node.js for scraping and data analysis
++ Python & node.js for scraping, data analysis (statistics, NLP, machine learning)
 + Typescript/React/d3 for datavis
+
 
 ## Here is a short selection of projects:
 
++ [Municipales 2020 : les résultats pour les villes de plus de 3 500 habitants](https://www.lefigaro.fr/fig-data/municipales-2020-live-t2/)
++ [Qui peut remporter le second tour des municipales dans votre commune?](https://www.lefigaro.fr/fig-data/municipales-2020-fusions/)
 + [Quelles études ont fait nos ministres ?](https://www.lefigaro.fr/fig-data/etudes-gouvernement/)
 + [Qui pourraient être les 5 eurodéputés «réservistes» ?](https://www.lefigaro.fr/fig-data/eurodeputes-reservistes/)
 + [Votre commune a-t-elle un problème avec sa dette ?](https://www.lefigaro.fr/fig-data/dette-commune/)
@@ -16,6 +19,7 @@ For this, I use lots of:
 + [Ces Européens qui siègent dans nos mairies](https://www.lefigaro.fr/fig-data/europeens-elus-en-france/)
 + [Qui sont les barons locaux de votre département ?](https://www.lefigaro.fr/fig-data/longevite-maires/)
 + [De l’élégance noire à l’audace du néon : quand les couleurs racontent la mode](https://www.lefigaro.fr/fig-data/couleur-defiles/)
++ [Vincent Lambert : du cas à l'affaire hors normes](https://www.lefigaro.fr/fig-data/vincent-lambert/)
 
 ## I'm also doing OSS, here are some of my projects: 
 
