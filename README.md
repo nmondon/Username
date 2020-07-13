@@ -7,7 +7,7 @@ For this, I use lots of:
 + Typescript/React/d3 for datavis
 
 
-## Here is a short selection of projects:
+## Here is a short selection of projects I've made:
 
 + [Municipales 2020 : les résultats pour les villes de plus de 3 500 habitants](https://www.lefigaro.fr/fig-data/municipales-2020-live-t2/)
 + [Qui peut remporter le second tour des municipales dans votre commune?](https://www.lefigaro.fr/fig-data/municipales-2020-fusions/)
@@ -20,6 +20,7 @@ For this, I use lots of:
 + [Qui sont les barons locaux de votre département ?](https://www.lefigaro.fr/fig-data/longevite-maires/)
 + [De l’élégance noire à l’audace du néon : quand les couleurs racontent la mode](https://www.lefigaro.fr/fig-data/couleur-defiles/)
 + [Vincent Lambert : du cas à l'affaire hors normes](https://www.lefigaro.fr/fig-data/vincent-lambert/)
++ [Tous les matchs de l'équipe de France en un graphe](https://serac.io/matchs-edf/)
 
 ## I'm also doing OSS, here are some of my projects: 
 
