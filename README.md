@@ -12,6 +12,8 @@ For this, I use lots of:
 + [Municipales 2020 : les résultats pour les villes de plus de 3 500 habitants](https://www.lefigaro.fr/fig-data/municipales-2020-live-t2/)
 + [Qui peut remporter le second tour des municipales dans votre commune?](https://www.lefigaro.fr/fig-data/municipales-2020-fusions/)
 + [Votre département a-t-il enregistré une surmortalité importante ?](https://www.lefigaro.fr/fig-data/coronavirus-surmortalite/)
++ [Construisons un modèle épidémiologique](https://www.lefigaro.fr/fig-data/modele-compartimental/)
++ [Le confinement a-t-il permis d’endiguer le nombre des décès ?](https://www.lefigaro.fr/fig-data/bilan-confinement/)
 + [Quelles études ont fait nos ministres ?](https://www.lefigaro.fr/fig-data/etudes-gouvernement/)
 + [Qui pourraient être les 5 eurodéputés «réservistes» ?](https://www.lefigaro.fr/fig-data/eurodeputes-reservistes/)
 + [Votre commune a-t-elle un problème avec sa dette ?](https://www.lefigaro.fr/fig-data/dette-commune/)
