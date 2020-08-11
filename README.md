@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas Mondon, software engineer and data journalist based in Paris
 
-I'm mostly doing quantitative analysis in politics 👸 and sport ⚽️.  
+I'm mostly doing quantitative analysis and datavis in politics 👸 and sport ⚽️.  
 For this, I use lots of:
 
 + Python & node.js for scraping, data analysis (statistics, NLP, machine learning)
@@ -9,12 +9,17 @@ For this, I use lots of:
 
 ## Here is a short selection of projects I've made:
 
-### [Municipales 2020 : les résultats pour les villes de plus de 3 500 habitants](https://www.lefigaro.fr/fig-data/municipales-2020-live-t2/)
+#### [Municipales 2020 : les résultats pour les villes de plus de 3 500 habitants](https://www.lefigaro.fr/fig-data/municipales-2020-live-t2/)
 ![](./images/1.png)
-+ a live dashboard for elections results in France
++ a live dashboard for elections results
 + design + implementation
 
-+ [Qui peut remporter le second tour des municipales dans votre commune?](https://www.lefigaro.fr/fig-data/municipales-2020-fusions/)
+#### [Qui peut remporter le second tour des municipales dans votre commune?](https://www.lefigaro.fr/fig-data/municipales-2020-fusions/)
+![](./images/2.png)
++ a search engine to analyse electoral fusions
++ processing + design + implementation
+
+
 + [Votre département a-t-il enregistré une surmortalité importante ?](https://www.lefigaro.fr/fig-data/coronavirus-surmortalite/)
 + [Construisons un modèle épidémiologique](https://www.lefigaro.fr/fig-data/modele-compartimental/)
 + [Le confinement a-t-il permis d’endiguer le nombre des décès ?](https://www.lefigaro.fr/fig-data/bilan-confinement/)
