@@ -20,7 +20,11 @@ For this, I use lots of:
 + processing + design + implementation
 
 
-+ [Votre département a-t-il enregistré une surmortalité importante ?](https://www.lefigaro.fr/fig-data/coronavirus-surmortalite/)
+#### [Votre département a-t-il enregistré une surmortalité importante ?](https://www.lefigaro.fr/fig-data/coronavirus-surmortalite/)
+![](./images/3.png)
++ proessing + design + implementation
+
+
 + [Construisons un modèle épidémiologique](https://www.lefigaro.fr/fig-data/modele-compartimental/)
 + [Le confinement a-t-il permis d’endiguer le nombre des décès ?](https://www.lefigaro.fr/fig-data/bilan-confinement/)
 + [Quelles études ont fait nos ministres ?](https://www.lefigaro.fr/fig-data/etudes-gouvernement/)
