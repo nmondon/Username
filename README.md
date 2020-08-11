@@ -9,7 +9,11 @@ For this, I use lots of:
 
 ## Here is a short selection of projects I've made:
 
-+ [Municipales 2020 : les résultats pour les villes de plus de 3 500 habitants](https://www.lefigaro.fr/fig-data/municipales-2020-live-t2/)
+### [Municipales 2020 : les résultats pour les villes de plus de 3 500 habitants](https://www.lefigaro.fr/fig-data/municipales-2020-live-t2/)
+![](./images/1.png)
++ a live dashboard for elections results in France
++ design + implementation
+
 + [Qui peut remporter le second tour des municipales dans votre commune?](https://www.lefigaro.fr/fig-data/municipales-2020-fusions/)
 + [Votre département a-t-il enregistré une surmortalité importante ?](https://www.lefigaro.fr/fig-data/coronavirus-surmortalite/)
 + [Construisons un modèle épidémiologique](https://www.lefigaro.fr/fig-data/modele-compartimental/)
