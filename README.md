@@ -4,7 +4,9 @@ I'm mostly doing quantitative analysis and data visualisation in politics 👸 a
 For this, I use lots of:
 
 - Python & node.js for scraping, data analysis (statistics, NLP, machine learning)
-- Typescript, React, d3, SVG, canvas, WebGL for data visualisation
+- Typescript, React, d3, SVG, canvas, WebGL, topojson for data visualisations
+
+But my job is also to industrialize and build tools to improve our processes, reuse components through dedicated libraries or scaffolders.
 
 ## Here is a short selection of projects I've made:
 
