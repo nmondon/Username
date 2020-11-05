@@ -42,18 +42,22 @@ But a part of my job is also to industrialize and build tools to improve our pro
 
 - a tool to visualize the evolution of Ligue 1's ranking, made in d3
 
-* [Construisons un modèle épidémiologique](https://www.lefigaro.fr/fig-data/modele-compartimental/)
-* [Le confinement a-t-il permis d’endiguer le nombre des décès ?](https://www.lefigaro.fr/fig-data/bilan-confinement/)
-* [Quelles études ont fait nos ministres ?](https://www.lefigaro.fr/fig-data/etudes-gouvernement/)
-* [Qui pourraient être les 5 eurodéputés «réservistes» ?](https://www.lefigaro.fr/fig-data/eurodeputes-reservistes/)
-* [Votre commune a-t-elle un problème avec sa dette ?](https://www.lefigaro.fr/fig-data/dette-commune/)
-* [Votre ville est-elle un bastion de la droite ou de la gauche ?](https://www.lefigaro.fr/fig-data/bastions/)
-* [La République en Marche face à la dispersion de sa majorité](https://www.lefigaro.fr/fig-data/lrem-dispersion/)
-* [Ces Européens qui siègent dans nos mairies](https://www.lefigaro.fr/fig-data/europeens-elus-en-france/)
-* [Qui sont les barons locaux de votre département ?](https://www.lefigaro.fr/fig-data/longevite-maires/)
+#### [Quelles études ont fait nos ministres ?](https://www.lefigaro.fr/fig-data/etudes-gouvernement/)
 
-* [Vincent Lambert : du cas à l'affaire hors normes](https://www.lefigaro.fr/fig-data/vincent-lambert/)
-* [Tous les matchs de l'équipe de France en un graphe](https://serac.io/matchs-edf/)
+![](./images/studies.png)
+
+- a scrollytelling piece and a Sankey chart variation, made in d3
+
+- [Construisons un modèle épidémiologique](https://www.lefigaro.fr/fig-data/modele-compartimental/)
+- [Le confinement a-t-il permis d’endiguer le nombre des décès ?](https://www.lefigaro.fr/fig-data/bilan-confinement/)
+- [Qui pourraient être les 5 eurodéputés «réservistes» ?](https://www.lefigaro.fr/fig-data/eurodeputes-reservistes/)
+- [Votre commune a-t-elle un problème avec sa dette ?](https://www.lefigaro.fr/fig-data/dette-commune/)
+- [Votre ville est-elle un bastion de la droite ou de la gauche ?](https://www.lefigaro.fr/fig-data/bastions/)
+- [La République en Marche face à la dispersion de sa majorité](https://www.lefigaro.fr/fig-data/lrem-dispersion/)
+- [Ces Européens qui siègent dans nos mairies](https://www.lefigaro.fr/fig-data/europeens-elus-en-france/)
+- [Qui sont les barons locaux de votre département ?](https://www.lefigaro.fr/fig-data/longevite-maires/)
+- [Vincent Lambert : du cas à l'affaire hors normes](https://www.lefigaro.fr/fig-data/vincent-lambert/)
+- [Tous les matchs de l'équipe de France en un graphe](https://serac.io/matchs-edf/)
 
 ## I'm also doing OSS, here are some of my projects:
 
