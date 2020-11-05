@@ -1,14 +1,14 @@
 # Hi, I'm Nicolas Mondon, software engineer and data journalist based in Paris
 
-I'm mostly doing quantitative analysis and data visualisation in politics 👸 and sport ⚽️.  
+I'm mostly doing quantitative analysis and data visualisations.
 For this, I use lots of:
 
-- Python & node.js for scraping, data analysis (statistics, NLP, machine learning)
-- Typescript, React, d3, SVG, canvas, WebGL, topojson for data visualisations
+- Python (pandas, numpy, scikit-learn, jupyter, spacy) and node.js (puppeteer) for scraping and data analysis (statistics, NLP, machine learning)
+- Typescript, React, Svelte, d3, SVG, canvas, WebGL, topojson, RxJS or firebase for data visualisations
 
-But my job is also to industrialize and build tools to improve our processes, reuse components through dedicated libraries or scaffolders.
+But a part of my job is also to industrialize and build tools to improve our processes, reuse components through dedicated libraries or scaffolders.
 
-## Here is a short selection of projects I've made:
+## Here is a short selection of recent projects I've made:
 
 #### [Municipales 2020 : les résultats pour les villes de plus de 3 500 habitants](https://www.lefigaro.fr/fig-data/municipales-2020-live-t2/)
 
