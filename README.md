@@ -19,7 +19,7 @@ For this, I use lots of:
 
 ![](./images/2.png)
 
-- a search engine to analyse electoral fusions
+- a search engine to analyse political alliances
 - processing, design, implementation
 
 #### [Votre département a-t-il enregistré une surmortalité importante ?](https://www.lefigaro.fr/fig-data/coronavirus-surmortalite/)
