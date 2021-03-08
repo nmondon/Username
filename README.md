@@ -10,6 +10,12 @@ But a part of my job is also to industrialize and build tools to improve our pro
 
 ## Here is a short selection of recent projects I've made:
 
+#### [Flux des scores de Ligue 1 : a sankey diagram variation applied to football scores](https://serac.io/2021-gs-visualisation)
+
+![](./images/gs-vis.png)
+
+- design, development
+
 #### [Municipales 2020 : les résultats pour les villes de plus de 3 500 habitants](https://www.lefigaro.fr/fig-data/municipales-2020-live-t2/)
 
 ![](./images/1.png)
